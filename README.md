@@ -31,6 +31,12 @@
 
 <br/>
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+</a>
+
+<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
