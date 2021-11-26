@@ -41,6 +41,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mustafa-ural-korkmaz-941327224//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafa Ural Korkmaz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mustafa-ural-korkmaz-941327224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafa Ural Korkmaz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/uralkorkmaz0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-uralkorkmaz0?style=flat-square&logo=twitter"></a>
 </p>
