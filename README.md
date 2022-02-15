@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing websites.
+- 🤔 &nbsp; Exploring new technologies and developing products.
 - 💼 &nbsp; Working as a Web Developer.
-- 🌱 &nbsp; Learning more about Python (Artificial Intelligence, Data Analysis etc.).
+- 🌱 &nbsp; Learning more about UI & UX Design and Social Media Management
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
