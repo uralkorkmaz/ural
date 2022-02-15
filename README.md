@@ -39,6 +39,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mustafa-ural-korkmaz-941327224/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/uralkorkmaz0"><img alt="Twitter" src="(https://img.shields.io/badge/<larulog>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://instagram.com/larulog"><img alt="Instagram" src="https://img.shields.io/badge/<larulog>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://twitter.com/uralkorkmaz0"><img alt="Twitter" src="(https://img.shields.io/badge/larulog-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://instagram.com/larulog"><img alt="Instagram" src="https://img.shields.io/badge/larulog-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
