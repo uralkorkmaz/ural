@@ -27,9 +27,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
-
-<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
