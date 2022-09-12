@@ -1,3 +1,7 @@
+@settings {
+  font-size: 100;
+}
+
 <h2> Hey there! I'm Ural.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
