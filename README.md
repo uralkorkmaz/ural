@@ -27,9 +27,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larulog&theme=buefy&show_icons=true" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
 
 <br/>
 
