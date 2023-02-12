@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing products.
-- 💼 &nbsp; Working as a Web Developer.
-- 🌱 &nbsp; Learning more about UI & UX Design and Social Media Management.
+- 💼 &nbsp; Working as Freelancer currently.
+- 🌱 &nbsp; Learning about Web Development, UI & UX Design, Graphic Design (Adobe Apps) and Social Media Management.
 
 <h3> 🛠 &nbsp;Qualities</h3>
 
