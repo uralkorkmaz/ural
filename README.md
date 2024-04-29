@@ -1,4 +1,4 @@
-<h2>Selam</h2>
+<h2>Hello I'm Ural</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
