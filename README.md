@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing products.
 - 💼 &nbsp; Working as Freelancer currently.
-- 🌱 &nbsp; Learning about Web Development, UI & UX Design, Graphic Design (Adobe Apps) and Social Media Management.
+- 🌱 &nbsp; Experienced Web Development, UI & UX Design, Graphic Design (Adobe Apps) and Social Media Management.
 
 <h3> 🛠 &nbsp;Qualities</h3>
 
